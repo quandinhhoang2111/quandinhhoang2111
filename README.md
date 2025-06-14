@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Metasploit-blueviolet?style=flat-square&logo=metasploit" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square&logo=burpsuite" />
   <img src="https://img.shields.io/badge/-Wireshark-00008B?style=flat-square&logo=wireshark" />
-  <img src="https://img.shields.io/badge/-Ghidra-lightgray?style=flat-square&logo=data:image/svg+xml;base64," />
+  <img src="https://img.shields.io/badge/-Ghidra-lightgray?style=flat-square" />
 </p>
 
 #### 🧰 Platforms & DevOps:
@@ -57,7 +57,7 @@
 
 ### 📫 Contact Me
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:n22dcat044@student.ptithcm.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
