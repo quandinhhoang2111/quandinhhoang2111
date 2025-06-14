@@ -12,11 +12,8 @@
   - Ethical Hacking 🧠  
   - Secure Web Development 🌐  
   - Malware Analysis & Reverse Engineering 🐞  
-- 🌱 Currently learning:  
-  - Linux Hardening 🐧  
-  - Kernel Security 🧬  
-  - Exploitation Techniques 📚  
-- 🌍 I speak: Vietnamese 🇻🇳, English 🇬🇧 (fluent), a bit of Chinese 🇨🇳
+ 
+- 🌍 I speak: Vietnamese 🇻🇳, English 🇬🇧 (normal)
 
 ---
 
